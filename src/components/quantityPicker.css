@@ -1,16 +1,18 @@
+
 .quantity-picker{
 
-    border: 1px solid red;
-    border-radius: 2px;
+    border: 2px groove #1C6EA4;
+    border-radius: 40px 40px 40px 40px;
 }
 
 .quantity-picker button{
 
-    margin: 0 5px;
+    margin: 5px;
+    background-color: aqua;
+    box-shadow: 1px 1px black;
 }
 
 .quantity-picker label{
 
-    font-weight: bold;
-    color: royalblue;
+   color: whitesmoke;
 }

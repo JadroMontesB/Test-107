@@ -6,21 +6,17 @@ import Product from './components/product';
 
 import "bootstrap/dist/css/bootstrap.min.css";
 import "bootstrap/dist/js/bootstrap.min.js";
-
-
+import DataService from "./service/dataService";
 
 function App() {
   return (
     <div className="App">
-      
       <NavBar></NavBar>
-      <h1>Welcome To Cripto World</h1>
+      <h1>Welcome To CryptoWorld</h1>
 
       <Catalog></Catalog>
-     
-      <Footer></Footer>
-      
 
+      <Footer></Footer>
     </div>
   );
 }

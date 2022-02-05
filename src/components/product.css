@@ -1,16 +1,30 @@
 .product{
 
     display: inline-block;
-    width: 270px;
+    width: 400px;
     height: 450px;
 
+    color: whitesmoke;
+    font-size: 17px;
+
+    border-width: 2px;
+    border-style: solid;
+    border-color: slategrey;
+
+    background: #CE83B6;
+    background: -moz-linear-gradient(-45deg, #CE83B6 0%, #C5BF4C 100%);
+    background: -webkit-linear-gradient(-45deg, #CE83B6 0%, #C5BF4C 100%);
+    background: linear-gradient(135deg, #CE83B6 0%, #C5BF4C 100%);
 }
 
 .product img{
 
     width: 250px;
     height: 230px;
-
-
     margin-top: 30px;
+    }
+
+.product h5 {
+
+    font-size: 25px;
 }

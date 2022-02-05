@@ -1,13 +1,10 @@
 .footer
 {
-    background: white;
-}
 
-.footer h5{
+    color: white;
+    text-shadow: 1px 1px black;
+    text-align: left;
 
-    color: gray;
-}
-
-.footer h6{
-    color: green;
+    height: 3vh;
+    background-color: gainsboro;
 }

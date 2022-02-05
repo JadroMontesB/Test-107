@@ -6,8 +6,8 @@ function Footer(){
 
         <div className="footer">
 
-            <h5>Cripto Store</h5>
-            <h6>Dev: Jadro Montes</h6>
+            <p>Jadro Montes - Copyright</p>
+    
         </div>
 
     )

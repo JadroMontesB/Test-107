@@ -1,5 +1,12 @@
-.navbar h1{
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital@1&display=swap');
 
-    color: blue;
+.container h1 {
+
+    background-color: bisque;
     text-align: center;
+    font-family: 'Montserrat',
+    sans-serif;
+    }
+
+    .container {
 }
