@@ -19,7 +19,7 @@ var catalog = [
     _id: "03_Shiba",
     title: "Shiba Inu",
     img: "shiba.png",
-    price: 0.0000206,
+    price: 0.0206,
     category: "cryptocurrencies",
   },
 
